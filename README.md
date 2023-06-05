@@ -2,6 +2,8 @@
 
 A Processing sketch made using the processing IDE.
 
+The result is different each time!
+
 A Flow Field is a field of force whose direction follow a perlin noise field containing particles that are affected by the force following. The force field is divided into discrete grid cells, in which each cell contains a force vector whose direction is defined by the value of the perlin noise field at a coordinate that is relative to the coordinate of the cell. The result is an aesthetically pleasing image that also simulates the pattern of the perlin noise field.
 
 To run the sketch, you would need the processing IDE.
